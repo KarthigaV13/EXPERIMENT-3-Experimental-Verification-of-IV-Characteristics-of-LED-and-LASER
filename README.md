@@ -23,6 +23,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ---
 
+
 ## 🧪 PROCEDURE
 
 1. Connect the power supply to the board.
